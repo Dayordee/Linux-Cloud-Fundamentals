@@ -16,3 +16,13 @@ Grading tip:  Screenshot each step and upload with your step by step answer
 Guide:
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
 
+1. ![](../Screenshots/Name%20Lab.Vpc.png)
+
+2. ![](../Screenshots/VPC%20cidr%20created.png)
+
+3.![](../Screenshots/subnet%201.png)
+![](../Screenshots/subnet%201.png)
+
+4![](../Screenshots/internet-gateway%20attached.png)
+
+

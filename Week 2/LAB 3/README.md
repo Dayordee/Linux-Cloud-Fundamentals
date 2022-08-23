@@ -24,3 +24,17 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-automate-
 Create bootstrap actions to install additional software
 
 https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-bootstrap.html
+
+1. I created a linux Virtual machine
+![](../Screenshots/Linux%20Vm.png)
+
+2. I launched my Apache server 
+![](../Screenshots/My%20Apache%20server.png)
+
+3. I started my service via commandline
+![](../Screenshots/service.png)
+
+4. I investigated the service via commandline
+
+5 I stoppped the service
+![](../Screenshots/service%20stopped.png)

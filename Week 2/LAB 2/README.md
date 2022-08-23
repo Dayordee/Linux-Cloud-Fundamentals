@@ -23,3 +23,22 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/reboot-instances.html
 Quickstart for AWS CloudShell
 
 https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+
+1. I created a virtual machine 
+![](../Screenshots/Instances%20launched.png)
+
+2. Connected to my virtual machine
+![](../Screenshots/Vm%20connected.png)
+
+3. I understood the VM images
+
+4. I understood the VM stood sizes
+
+5. I understood the VM power states
+The virtual machine shows a pending status before it's starts running and show a shutting down stats before it is completely terminated
+![](../Screenshots/Instance%20stopped.png)
+![](../Screenshots/terminating%20state.png)
+![](../Screenshots/shutting%20down.png)
+
+6. I ensured I shutdown my virtual machines while not in use
+![](../Screenshots/system%20shutdown.png)
